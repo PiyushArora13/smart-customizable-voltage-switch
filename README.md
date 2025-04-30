@@ -13,7 +13,7 @@ A smart, Arduino-based voltage protection switch that monitors input voltage. Wh
 - Potentiometer
 - Buzzer
 - 9V Battery
-- Resistor (1)
+- Resistor (2)
 - Multimeter (for measurement)
 - LED
 
