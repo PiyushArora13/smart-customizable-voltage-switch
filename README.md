@@ -19,9 +19,6 @@ A smart, Arduino-based voltage protection switch that monitors input voltage. Wh
 ## Working
 The potentiometer adjusts a threshold voltage. Arduino reads the voltage level and compares it. If voltage > threshold, it turns off the NMOS and activates the buzzer for 3 seconds.
 
-## Circuit Diagram
-![Circuit Diagram](Circuit/schematic.png)
-
 ## How to Use
 1. Connect components as per the circuit.
 2. Upload Arduino code using the Arduino IDE.
